@@ -1,0 +1,7 @@
+total 24
+drwxr-xr-x   6 kmr  staff  192 Nov 28 23:23 .
+drwx------+ 15 kmr  staff  480 Nov  7 21:41 ..
+-rw-r--r--@  1 kmr  staff  660 Nov 28 23:16 numbers.txt
+-rw-r--r--   1 kmr  staff    0 Nov 28 23:23 test.txt
+-rw-r--r--   1 kmr  staff    9 Nov 28 22:46 test_vi.text
+-rw-r--r--@  1 kmr  staff  117 Nov 28 23:08 usefull_links.txt
